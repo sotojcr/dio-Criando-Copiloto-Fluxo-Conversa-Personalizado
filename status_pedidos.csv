@@ -1,0 +1,7 @@
+pedidoID,Cliente,DataPedido,StatusPedido,DataEstimadaEntrega,Observacoes
+12345,João Silva,2025-06-01,Em andamento,2025-06-14,Em separação no centro de logística
+12346,Maria Oliveira,2025-05-30,Entregue,2025-06-05,Entregue ao porteiro
+12347,Bruno Costa,2025-06-02,Atrasado,2025-06-09,Aguardando fornecedor
+12348,Ana Lima,2025-06-04,Cancelado,,Cancelado a pedido do cliente
+12349,Carla Souza,2025-06-05,Em transporte,2025-06-12,Saiu do centro de distribuição
+12350,Pedro Martins,2025-06-06,Em processamento,2025-06-15,Pagamento aprovado
