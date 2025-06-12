@@ -40,3 +40,7 @@ Agente que ajuda clientes a verificar o status de pedidos, abrir chamados e fala
     - Usar a GENAI para pedir para responder as mensagens de erro de tópico
 
  ![alt text](resposta_genAI.png)
+
+5. Exemplo de consulta bem sucedida
+
+![alt text](consulta_pedido.png)
